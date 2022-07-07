@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="title_home">Чисельний</string>
+    <string name="title_geometrics">Геометричний</string>
+    <string name="title_contacts">Розробник</string>
+    <string name="error">Помилка</string>
+    <string name="contacts">КОНТАКТИ</string>
+    <string name="dev_name">Мельничук Андрій</string>
+    <string name="dev_des">На цій сторінці ви можете зв`язатися з розробником!</string>
+
+    <string name="clear">Очистити</string>
+    <string name="back">Назад</string>
+    <string name="result_old">Недавній результат</string>
+
+    <string name="year">Рік</string>
+    <string name="month">Місяць</string>
+    <string name="day">День</string>
+    <string name="hour">Година</string>
+    <string name="minutes">Хвилина</string>
+    <string name="seconds">Секунда</string>
+
+    <string name="instagram_url" translatable="false">https://www.instagram.com/andriy.m4k/</string>
+    <string name="telegram_url" translatable="false">https://t.me/DeDeadth</string>
+
+    <string name="area_of_triangle">Площа трикутника</string>
+    <string name="area_of_square">Площа квадрата</string>
+    <string name="area_of_circle">Площа кола</string>
+    <string name="area_of_rectangle">Площа прямокутника</string>
+    <string name="clear_all">Очистити все</string>
+    <string name="calculate">Розрахувати</string>
+    <string name="enter_length">Введіть довжину</string>
+    <string name="length_1">Довжина 1</string>
+    <string name="length_2">Довжина 2</string>
+    <string name="square">Площа</string>
+
+</resources>
