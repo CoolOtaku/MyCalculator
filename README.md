@@ -34,6 +34,7 @@ This is a mobile application that allows you to calculate expressions and geomet
 <b>UA:</b>
 - Обчислення простих виразів та геометричних величин
 - Зручна навігація через додаток
+
 #
 ## License
 ```
