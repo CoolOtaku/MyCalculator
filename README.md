@@ -1,4 +1,4 @@
-<p align="center"><img width="128" height="128" src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" /></p>
+<p align="center"><img width="128" height="128" src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"/></p>
 <h1 align="center">MyCalculator</h1>
 
 ## Description
